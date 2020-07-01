@@ -192,7 +192,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>5.1.35</version>
+            <version>8.0.16</version>
             <scope>provided</scope>
         </dependency>
 
@@ -373,7 +373,7 @@
                             <dependency>
                                 <groupId>mysql</groupId>
                                 <artifactId>mysql-connector-java</artifactId>
-                                <version>5.1.10</version>
+                                <version>8.0.16</version>
                                 <type>jar</type>
                             </dependency>
                         </dependencies>
